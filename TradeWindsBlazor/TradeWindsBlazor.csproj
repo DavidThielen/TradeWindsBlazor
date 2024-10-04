@@ -16,6 +16,8 @@
 	<RepositoryType>git</RepositoryType>
 	<PackageTags>Blazor; ILogger</PackageTags>
 	<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+	<PackageProjectUrl>https://github.com/DavidThielen/TradeWindsBlazor</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/DavidThielen/TradeWindsBlazor</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
